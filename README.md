@@ -1,8 +1,12 @@
 # oneplus2_manifests
 
-CyanogenMod dependencies: 
+CyanogenMod 13.0 dependencies: 
 ````bash
 curl --create-dirs -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/cm-13.0.xml
+```
+CyanogenMod 14.0 dependencies: 
+````bash
+curl --create-dirs -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/cm-14.0.xml
 ```
 AOSP:
 ````bash
