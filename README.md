@@ -18,5 +18,5 @@ curl --create-dirs -L -o .repo/local_manifests/broken_manifest.xml -O -L https:/
 ```
 AOSPA 7.0:
 ````bash
-curl --create-dirs -L -o .repo/local_manifests/broken_manifest.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/pa.xml
+curl --create-dirs -L -o .repo/local_manifests/roomservice.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/pa.xml
 ```
