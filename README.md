@@ -16,3 +16,7 @@ BrokenROM 4.9.1:
 ````bash
 curl --create-dirs -L -o .repo/local_manifests/broken_manifest.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/broken_manifest.xml
 ```
+AOSPA 7.0:
+````bash
+curl --create-dirs -L -o .repo/local_manifests/broken_manifest.xml -O -L https://raw.githubusercontent.com/Seraph08/oneplus2_manifests/master/pa.xml
+```
